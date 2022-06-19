@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1655645083 source:d:\courses\embedded projects\project-2022\bank database\bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bank database.h"
+
+1655638387 d:\courses\embedded projects\project-2022\bank database\bank database\bank database.h
+
+1655644609 source:d:\courses\embedded projects\project-2022\bank database\bank database\bank database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bank database.h"
+
